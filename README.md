@@ -1,5 +1,3 @@
-# NotebookLM
-
 # Meu Projeto NotebookLM DAMA DMBOK
 
 Este repositório contém a documentação, as fontes e os insights gerados utilizando o Google NotebookLM.
@@ -7,10 +5,12 @@ Este repositório contém a documentação, as fontes e os insights gerados util
 🔗 **Link de Acesso ao Notebook:** [Acessar Preview Interativo](https://notebooklm.google.com/notebook/23a73d6a-f5b9-4c84-8e4d-b352a1afb4b7/preview)
 
 ## 📌 Sobre o Projeto
-(Escreva aqui qual era o objetivo: ex. Estudar para uma prova, analisar contratos, etc.)
+(Projeto desenvolvido para fins educacionais)
 
 ## 🗂️ Fontes Utilizadas
-- (Liste os PDFs ou links que você subiu na plataforma)
+- Livro em pdf traduzido: Dama-DmBok-Traduzido.pdf
+- Pesquisa na WEB sobre: DAMA DMBOK na era da IA
+- A anatomia oculta do seu patrimônio invisível
 
 ## 🤖 Prompts Úteis Utilizados
 - "Me resuma os principais pontos do documento X..."
