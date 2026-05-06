@@ -1,6 +1,6 @@
 # NotebookLM
-Governança de Dados
-# Meu Projeto NotebookLM
+
+# Meu Projeto NotebookLM DAMA DMBOK
 
 Este repositório contém a documentação, as fontes e os insights gerados utilizando o Google NotebookLM.
 
