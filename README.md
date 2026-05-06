@@ -5,7 +5,7 @@ Este repositório contém a documentação, as fontes e os insights gerados util
 🔗 **Link de Acesso ao Notebook:** [Acessar Preview Interativo](https://notebooklm.google.com/notebook/23a73d6a-f5b9-4c84-8e4d-b352a1afb4b7/preview)
 
 ## 📌 Sobre o Projeto
-(Projeto desenvolvido para fins educacionais: O guia definitivo e padronizado para a gestão de dados em ambientes corporativos.)
+ **Projeto desenvolvido para fins educacionais:** O guia definitivo e padronizado para a gestão de dados em ambientes corporativos. 
 
 ## 🗂️ Fontes Utilizadas
 - Livro em pdf traduzido: Dama-DmBok-Traduzido.pdf
