@@ -18,3 +18,4 @@ Este repositório contém a documentação, as fontes e os insights gerados util
 ## 🤖 Prompts Úteis Utilizados
 - Comando personalizado para gerar Relatórios: "Explicar de forma encorajadora a importância do manuseio ético de dados e os critérios básicos que definem a qualidade da informação, ajudando o iniciante a compreender o impacto dessas práticas no mundo digital."
 - Comando personalizado para gerar cartão didáticos: "Os Cartões precisam focar na estrutura de gerenciamento de dados DAMA DMBOK evoluída"
+- Comando personalizado para gerar Mapa Mental:"O Mapa mental deve seguir somente o assunto sobre DAMA DMBOK e como é aplicado na Governança de dados na era da inteligência artificial"
